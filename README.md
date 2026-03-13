@@ -44,8 +44,7 @@ Exibe todos os livros cadastrados no acervo com suas informações organizadas.
 ```
 projeto/
 │
-├── main.dart
-└── biblioteca.dart
+└── main.dart
 ```
 
 **main.dart**
